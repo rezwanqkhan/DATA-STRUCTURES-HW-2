@@ -1,5 +1,5 @@
 import java.util.LinkedList;
-// second PROBLEME
+// second PROBLEM
 //NAME & LASTNAME: REZWANULLAH QURAISHI
 // STUDENT NO: 200316057
 
