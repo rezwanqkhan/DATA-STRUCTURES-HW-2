@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 // second PROBLEM
 //NAME & LASTNAME: REZWANULLAH QURAISHI
-// STUDENT NO: 200316057
+// STUDENT NO: 
 
 public class LinkedListMerge {
     public static void main(String[] args) {
